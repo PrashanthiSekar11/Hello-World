@@ -1,4 +1,4 @@
 # Hello-World
 Testing 
 
-Testiong github and understanding it
+Testing github and understanding it
